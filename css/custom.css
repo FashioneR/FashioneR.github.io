@@ -1,0 +1,639 @@
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 100%;
+      margin:0 auto;
+   
+  }
+.first_container{
+    height: 730px;
+}
+
+.container-fluid{
+    height: 260px;
+ margin:  0px;
+    padding: 0px;
+}
+	
+.circle{
+	border-radius: 50%;
+	margin-top: 0.5em;
+	font-size: 3em;
+	}
+	
+.fa-twitter{
+	background: #2a3236;
+	color: #FFFFFF;
+  padding: 0.5em 0.5em;
+	}
+
+.fa-google-plus{
+  color: #FFFFFF;
+  background: #dd4b39;
+  padding: 0.1em 0.1em;
+  }  
+
+.fa-dribbble{
+	color: #ea4c89;
+	}
+
+.fa-pinterest{
+	    color: white;
+    padding: 0.5em 0.5em;
+    background-color: #2a3236;
+	}
+
+.fa-facebook{
+	background: #2a3236;
+	color: #FFFFFF;
+  padding: 0.5em 0.5em;
+ 
+	}
+
+.fa-youtube{
+	background: #2a3236;
+	color: #FFFFFF;
+  padding: 0.5em 0.5em;
+  
+	}
+.social-mediaicons{
+    
+    height: 50px;
+    border-bottom:3px solid;
+    border-bottom-color: white;
+
+}
+.login{
+   
+    height: 50px;
+    border-bottom: 3px solid;
+    border-bottom-color: white;
+    padding-top: 10px;
+    color: white;
+
+    
+    
+}
+.mycart{
+    padding-left: 10px;
+    float: right;
+   padding-top: 5px;
+    
+}
+
+.mycart a{
+    color: white;
+}
+.mycart a:hover{
+    color: crimson;
+    text-decoration: none;
+}
+
+.search_container{
+    width: 240px;
+}
+
+
+
+
+.search{
+    padding-top: 10px;
+    background-color: bisque;
+    height: 50px;
+    border-bottom: 3px solid;
+    border-bottom-color: white;
+    padding-top: 10px;
+    color: white;
+}
+
+    .search-form .form-group {
+  float: right !important;
+  transition: all 0.35s, border-radius 0s;
+  width: 32px;
+  height: 32px;
+  background-color: transparent;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+  border-radius: 25px;
+  
+}
+.search-form .form-group input.form-control {
+  padding-right: 20px;
+  border: 0 none;
+  background: transparent;
+  box-shadow: none;
+  display:block;
+}
+.search-form .form-group input.form-control::-webkit-input-placeholder {
+  display: none;
+}
+.search-form .form-group input.form-control:-moz-placeholder {
+  /* Firefox 18- */
+  display: none;
+}
+.search-form .form-group input.form-control::-moz-placeholder {
+  /* Firefox 19+ */
+  display: none;
+}
+.search-form .form-group input.form-control:-ms-input-placeholder {
+  display: none;
+}
+.search-form .form-group:hover,
+.search-form .form-group.hover {
+  width: 100%;
+  border-radius: 4px 25px 25px 4px;
+}
+.search-form .form-group span.form-control-feedback {
+  position: absolute;
+  top: -1px;
+  right: -2px;
+  z-index: 2;
+  display: block;
+  width: 34px;
+  height: 34px;
+  line-height: 34px;
+  text-align: center;
+  color: white;
+  left: initial;
+  font-size: 14px;
+}
+
+.menue_center{
+   
+}
+
+.navbar{
+    padding-left:260px;
+    color: white;
+}
+.navbar-nav>li>a{
+    color: white;
+    text-shadow: none;
+    
+    
+}
+
+.navbar .navbar-nav > li > a:hover, .navbar .navbar-nav > li > a:focus {
+    color: crimson;
+    background-color: transparent;
+     text-shadow: none;
+}
+
+.bullete{
+    background-color: white;
+    margin-top: 23px;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.after{
+    margin-left: 380px;
+}
+
+.logo{
+   margin-top: 100px;
+}
+.btn.outline {
+    background: none;
+    padding: 12px 22px;
+}
+
+.btn-primary.outline {
+    border: 2px solid white;
+    color: white;
+    border-radius: 0px;
+}
+.btn-primary{
+    margin-left: 85px;
+    margin-top: 20px;
+    width: 206;
+    border-radius: 0px;
+}
+.btn-primary:hover{
+    background-color:crimson;
+}
+
+ .btn-primary.outline:hover, .btn-primary.outline:focus, .btn-primary.outline:active, .btn-primary.outline.active, .open > .dropdown-toggle.btn-primary {
+    color: white;
+    border-color: white;
+     border-radius: 0px;
+     background-color: crimson;
+     
+}
+.btn-primary.outline:active, .btn-primary.outline.active {
+    border-color: white;
+    color: white;
+    box-shadow: none;
+}   
+
+.border{
+    
+    border: 1px solid #491b42;
+    width: 100%;
+    height: auto;
+   border-radius: 1px;
+    -webkit-border-radius: 1px;
+    -moz-border-radius: 1px;
+     box-shadow:2px 2px 2px 2px #888888;
+    -webkit-box-shadow:2px 2px 2px 2px #888888;
+    -moz-box-shadow:2px 2px 2px 2px #888888;
+    color: white;
+    padding:15px;
+    max-height: auto;
+   
+}
+
+.whats_new img{
+   width: 740px;
+    height: 350px;
+    opacity: 1.0;
+    margin-left: 5px;
+    
+}
+
+.whats_new img:hover{
+    background-color: aquamarine;
+    opacity:0.6;
+    cursor:pointer;
+}
+
+
+
+.offers {
+    display: inline-block;
+    position: relative;
+	float:left;
+	margin-top:5px;
+    text-align: center;
+}
+
+.offers_div{
+position: absolute;
+    top: 100px;
+    left: 62px;
+    color: white;
+    font-size: 56px;
+    padding: 30px;
+    line-height: 50px;
+    padding-top: 30px;
+    text-align: center;
+    font-family: Monotype Corsiva;
+
+}
+
+.box_2nd_img img{
+     width: 710px;
+    margin-top: 15px;
+    height: 350px;
+    margin-left: 20px;
+}
+
+
+
+.main_titles{
+    font-size:56px;
+    margin-top: 40px;
+    font-family: Calibri;
+    text-align: center;
+    font-weight: bold;
+ color: black;
+}
+
+.main_titles p{
+    font-family: Monotype Corsiva;
+    font-size: 20px;
+}
+
+
+.dresses_left img{
+    width: 360px;
+    height: 420px;
+    margin-top: 20px;
+}
+
+.dresses_right img{
+    margin-top: 20px;
+    width: 745px;
+    height: 520px;
+}
+    
+.dresses_right .offers_box{
+     width: 747px;
+    height: 310px;
+    margin-top: 31px;
+    background-color: crimson;
+    text-align: center;
+    font-family:  Monotype Corsiva;
+    color: white;
+    font-size: 56px;
+    padding-top:80px;
+    
+}
+
+
+.pants_upper img{
+    margin-top: 20px;
+}
+
+
+
+#pants_img1   { 
+    height: 460px;
+    border-bottom: 2px solid #fff;
+    border-right: 2px solid #fff;
+    margin: 5% auto 0 auto;
+    background: url(../img/The_Cuffed_Pant_Heather_Silver_CATEGORY.jpg);
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+#overlay    { 
+        width: 400px;
+    height: 460px;
+    background: rgba(0,0,0,.2);
+    text-align: center;
+    padding: 145px 0 66px 0;
+    opacity: 0;
+    -webkit-transition: opacity .25s ease;
+-moz-transition: opacity .25s ease;
+}
+
+#pants_img1:hover #overlay {
+               opacity:1;}
+
+#plus       {  font-family:Helvetica;
+    font-size: 25px;
+    color: white;
+}
+
+#overlay .btn-primary{
+  margin-left: -4px;
+    width: 110px;
+    border-radius: 0px;
+    height: 41px;
+    padding: 5px;
+}
+#pants_img2   { 
+    width: 370px;
+    height: 460px;
+    border-bottom: 2px solid #fff;
+    border-right: 2px solid #fff;
+    margin: 5% auto 0 auto;
+    background: url(../img/The-Slim-Trouser-OffWhite_067.jpg);
+    background-repeat: no-repeat;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+#pants_img2:hover #overlay {
+               opacity:1;
+}
+#pants_img3   { 
+    width: 370px;
+    height: 460px;
+    border-bottom: 2px solid #fff;
+    border-right: 2px solid #fff;
+    margin: 5% auto 0 auto;
+    background: url(../img/ThePontePant_Black_063_CATEGORY.jpg);
+    background-repeat: no-repeat;
+    border-radius: 5px;
+    overflow: hidden;
+}
+#pants_img3:hover #overlay {
+               opacity:1;
+}
+
+
+
+.shirts{
+    
+   
+    margin-top: 20px;
+    text-align: center;
+    background:  url(../img/landscape-1450277578-gettyimages-488259786.jpg) no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+    
+    
+
+
+.new_collection{
+    font-size: 80px;
+    font-family: Monotype Corsiva;
+    color: white;
+    top: 260px;
+    width: 440px;
+    text-align: center;
+    position: relative;
+    left:30%;
+    
+}
+    
+.shirts .btn-primary  {
+    margin-left: 10px;
+    margin-bottom: 60px;
+    font-family: calibri;
+}
+
+.no-padding{
+    padding:0px;
+}
+
+.md-12{
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.shirts_collection{
+    margin-top: 380px;
+}
+
+.shirts_div {
+    display: inline-block;
+    position: relative;
+    text-align: center;
+}
+
+.shirts_name{
+position: absolute;
+    background-color: rgba(87, 87, 88, 0.9);
+    top: 360px;
+    color: white;
+    font-size: 26px;
+    padding: 30px;
+    opacity: 0.8;
+    width: 360px;
+    height: 140px;
+    padding-top: 30px;
+    text-align: center;
+   
+
+}
+
+.summer_collection{
+    height: 700px;
+    background: url(../img/fashion.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 885px;
+}
+
+.wait_summer{
+    width: 700px;
+}
+
+
+.new_collection .btn{
+    margin-left: 2px;
+}
+
+
+
+.order{
+    height: 700px;
+    background: url(../img/img-stores.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 1325px;
+}
+
+
+.just_order{
+    font-size: 56px;
+    font-family: Calibri;
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+}
+    
+    
+textarea.form-control{
+    height: 250px;
+    background-color: rgba(222, 223, 218, 0.4);
+    color: white;
+    margin-top: 60px;
+}
+
+.form_margin{
+    margin-top: 59px;
+}
+
+.form-control{
+    height: 73px;
+       background-color: rgba(222, 223, 218, 0.4);
+    color: white;
+    color: white;
+}
+
+.form_margin .btn{
+    text-align: center;
+}
+
+.submit{
+    text-align: center;
+}
+
+.submit .btn-primary{
+    text-align: center;
+    margin-top: 60px;
+    margin-left: 0px;
+    
+}
+
+footer{
+    background-image:url(../img/header_background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    
+}
+.footer_left{
+   text-align: left;
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    border-right: 2px solid white;
+    height: 270px;
+    width: 380px;
+    margin-top: 80px;
+    position: absolute;
+    color: white;
+    font-family: calibri;
+    padding-top: 33px;
+    line-height: 30px;
+    padding-left: 10px;
+}
+
+footer .titles{
+    color: black;
+    font-family: calibri;
+    text-align: center;
+    font-size: 26px;
+    margin-bottom: 30px;
+}
+
+.footer_center{
+    text-align: center;
+    margin-left: 380px;
+     border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    border-right: 2px solid white;
+    height: 270px;
+    width: 380px;
+    margin-top: 80px;
+    position: absolute;
+        line-height: 30px;
+    padding-top: 33px;
+    padding-left: 10px;
+}
+
+
+.footer_center i
+{
+    margin: 4px;
+    color: black;
+    background-color: white;
+    border-radius: 50%;
+    border: 1x solid white;
+    padding: 13px;
+    width: 40px;
+    height: 40px;
+}
+    
+.footer_right{
+    margin-left: 760px;
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    height: 270px;
+    width: 380px;
+    margin-top: 80px;
+    position: absolute;
+    line-height: 30px;
+    padding-top: 33px;
+    padding-left: 10px;
+    text-align: center;
+}
+    
+footer .form-control{
+    border-radius: 0px;
+    background-color: white;
+    width: 370px;
+    height: 50px;
+}
+
+.subscribe{
+    text-align: center;
+    width:100%;
+    height:auto;
+}
+
+.subscribe .btn-primary{
+    background-color: grey;
+    color: white;
+    margin-left: 0px;
+  
+}
